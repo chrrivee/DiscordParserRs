@@ -1,4 +1,4 @@
-# Deleted User Analyzer
+# Discord User Analyzer
 
 > A high-performance Rust tool for analyzing JSON message data to identify patterns in communications with deleted users.
 
